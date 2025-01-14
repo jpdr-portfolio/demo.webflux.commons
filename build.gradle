@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.jpdr.apps'
-version = '0.0.2'
+version = '0.0.5'
 
 java {
 	toolchain {
